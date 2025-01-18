@@ -29,3 +29,5 @@ And finally all the other connections (22 and 24 are the same as in the previous
 ![](/images/main_board_top.jpg)
 
 Good luck! And I would much appreciate it if you can share your succesful implementation (preferably via [my blog](https://blog.crouze.com/transistor-clock/)).
+
+NOTE: I do not take any responsibility, nor will I support when the modification does not work.

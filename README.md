@@ -9,7 +9,7 @@ Components needed are all similar to those used on the main board: NPN transisto
 
 Wiring on the daughter board speak for themselves and are clear enough in the images on the blog post. As mentioned there the two top blue wires are not needed.
 
-For convenience I have numbered the connections needed between the man board and the 24-hour daughter board. It is up to you how you make those connections, hard wired or with soke form of male/female connectors. Although they look good I do not recommend the connectors I made with a 3D printer, so I will not share these .
+For convenience I have numbered the connections needed between the man board and the 24-hour daughter board. It is up to you how you make those connections, hard wired or with some form of male/female connectors. Although they look good I do not recommend the connectors I made with a 3D printer, so I will not share these .
 
 The connections are numbered in these two images of the bottom of the 24-hour daughter board. Please disregard the pin in the first image, and the two bridge wires in the second. These are for a LED (irrelevant here) and to correct a mistake made with the original board.
 
